@@ -61,50 +61,5 @@
       "That is not the right Github url!"
     ],
     "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755690152.142175,
-    "completed_at": 1755690152.426225,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755690199.506893,
-    "completed_at": 1755690199.543602,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755693331.729302,
-    "completed_at": 1755693331.770875,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755693364.264135,
-    "completed_at": 1755693364.673131,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755693413.433202,
-    "completed_at": 1755693413.460076,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
   }
 ]
